@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.user-info {
+  display: inline-block;
+  text-align: center;
+}
+
+.round-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.icon-container {
+  margin-top: 20px;
+}
+
+.icon {
+  font-size: 24px;
+  margin: 0 15px;
+  cursor: pointer;
+}
+
+.active-info {
+  font-size: 18px;
+  margin-top: 20px;
+}
